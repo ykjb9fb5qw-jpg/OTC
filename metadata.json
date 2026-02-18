@@ -1,0 +1,8 @@
+{
+  "name": "HK USDT OTC Automator",
+  "description": "專為香港找換店設計的 USDT OTC 自動化與實時報價平台。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
